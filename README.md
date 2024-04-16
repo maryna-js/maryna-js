@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFsYjh1bjN2MzJja3Fnanh1MXExMmFlM3pldG82dW02MjVhYWVjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
 </div>
-<p align="center">
+<p align="center" style="margin-top: 10px">
 <a href="https://www.linkedin.com/in/maryna-rastargueva/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=maryna-js&style=flat-square&color=blue" alt=""></p>
+<!-- <p align="center"><img src="https://komarev.com/ghpvc/?username=maryna-js&style=flat-square&color=blue" alt=""></p> -->
 
 <h1 align="center">Hi! My name is Maryna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
