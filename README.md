@@ -12,10 +12,6 @@
 
 🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<p align="center">
- <img width="600" src="assets/snake.svg" alt="snake"/>
-</p>
-
 💯 Top skills:
 - Collaborating with other developers and stakeholders
 - Enjoying solving complex problems
@@ -23,6 +19,10 @@
 - Solid foundation in data analysis and business logic.
 
 🖥️  Checkout my [latest projects](http://www.staticwise.io/case-studies)
+
+<p align="center">
+ <img width="600" src="assets/snake.svg" alt="snake"/>
+</p>
 
 ---
 
