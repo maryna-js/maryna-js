@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-Functioning as a Software Engineer, I harness my versatile expertise to conceptualize and execute innovative software solutions. My focus is on creating products that not only elevate business performance but also enrich user experiences, ultimately driving organizational triumph.
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 💯 Top skills:
 - Collaborating with other developers and stakeholders
