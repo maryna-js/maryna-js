@@ -8,9 +8,7 @@
 
 <h1 align="center">Hi! My name is Maryna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-==============================================================================================================================
-
-With a wealth of experience in crafting marketplaces and guiding startups through web development journeys, I possess a robust proficiency in web development. I excel in navigating challenges and am dedicated to providing solutions that set new benchmarks within the industry. 
+### :woman_technologist: &nbsp;About Me :
 
 Functioning as a Software Engineer, I harness my versatile expertise to conceptualize and execute innovative software solutions. My focus is on creating products that not only elevate business performance but also enrich user experiences, ultimately driving organizational triumph.
 
