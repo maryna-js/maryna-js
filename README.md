@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 💯 Top skills:
 - Collaborating with other developers and stakeholders
