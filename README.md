@@ -12,6 +12,10 @@
 
 🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 💯 Top skills:
 - Collaborating with other developers and stakeholders
 - Enjoying solving complex problems
