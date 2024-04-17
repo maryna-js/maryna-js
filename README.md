@@ -38,5 +38,6 @@
 
 ### 🔥 &nbsp; My Stats :
 
-<a href="http://www.github.com/maryna-js"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maryna-js&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maryna-js0&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maryna-js&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
