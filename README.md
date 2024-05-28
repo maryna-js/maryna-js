@@ -12,7 +12,7 @@
 
 🔭 I'm a Software Engineer, crafting both the front and back ends of web applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-Contac me via email: rastargueva@gmail.com
+Contac me via email: rastargueva.m@gmail.com
 
 💯 Top skills:
 - Collaborating with other developers and stakeholders
